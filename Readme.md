@@ -19,3 +19,14 @@
     <li>[❌] null</li>
   </ul>
 </li>
+<li>Day 3
+  <ul>
+    <li>[✅] Connect two Api together</li>
+    <li>[✅] Create Use less Invention Hack</li>
+    <li>[❌] Explore Hardware</li>
+    <li>[❌] Explore Blockchain Technology</li>
+    <li>[✅] Build Something with React</li>
+    <li>[❌] Creat Hack to help You Travel</li>
+
+  </ul>
+</li>
